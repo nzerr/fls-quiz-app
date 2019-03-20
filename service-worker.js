@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fls-quiz-app/precache-manifest.949f71b5ad64a7bf075ddbf488b4607c.js"
+  "/fls-quiz-app/precache-manifest.f0b1a215861e348aa918f2e9a2b2764f.js"
 );
 
 workbox.clientsClaim();
