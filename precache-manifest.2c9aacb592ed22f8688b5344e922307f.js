@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/fls-quiz-app/static/js/runtime~main.4bb6f064.js"
   },
   {
-    "revision": "6c4e46740fad8d731df7",
+    "revision": "8a6347af3814dd1e2a96",
     "url": "/fls-quiz-app/static/js/main.52b04fd7.chunk.js"
   },
   {
@@ -20,11 +20,11 @@ self.__precacheManifest = [
     "url": "/fls-quiz-app/static/js/2.71c1a734.chunk.js"
   },
   {
-    "revision": "6c4e46740fad8d731df7",
-    "url": "/fls-quiz-app/static/css/main.3d4d5c6e.chunk.css"
+    "revision": "8a6347af3814dd1e2a96",
+    "url": "/fls-quiz-app/static/css/main.6d6a5c2f.chunk.css"
   },
   {
-    "revision": "b545dbd283b3d81cac3967ef1494c669",
+    "revision": "c456a90a50ddd2a025d46c53d55c4181",
     "url": "/fls-quiz-app/index.html"
   }
 ];
