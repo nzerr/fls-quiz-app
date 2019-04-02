@@ -1,5 +1,5 @@
 {
-  "main.css": "/fls-quiz-app/static/css/main.fde289e5.chunk.css",
+  "main.css": "/fls-quiz-app/static/css/main.24d7c566.chunk.css",
   "main.js": "/fls-quiz-app/static/js/main.3aada35e.chunk.js",
   "main.js.map": "/fls-quiz-app/static/js/main.3aada35e.chunk.js.map",
   "runtime~main.js": "/fls-quiz-app/static/js/runtime~main.4bb6f064.js",
@@ -7,9 +7,9 @@
   "static/js/2.71c1a734.chunk.js": "/fls-quiz-app/static/js/2.71c1a734.chunk.js",
   "static/js/2.71c1a734.chunk.js.map": "/fls-quiz-app/static/js/2.71c1a734.chunk.js.map",
   "index.html": "/fls-quiz-app/index.html",
-  "precache-manifest.eb15e1439bb43037be6e83d56582b61e.js": "/fls-quiz-app/precache-manifest.eb15e1439bb43037be6e83d56582b61e.js",
+  "precache-manifest.b7f328357c1bd06c13e91b1baf3b51ea.js": "/fls-quiz-app/precache-manifest.b7f328357c1bd06c13e91b1baf3b51ea.js",
   "service-worker.js": "/fls-quiz-app/service-worker.js",
-  "static/css/main.fde289e5.chunk.css.map": "/fls-quiz-app/static/css/main.fde289e5.chunk.css.map",
+  "static/css/main.24d7c566.chunk.css.map": "/fls-quiz-app/static/css/main.24d7c566.chunk.css.map",
   "static/media/logo.svg": "/fls-quiz-app/static/media/logo.3367c6c1.svg",
   "static/media/App.css": "/fls-quiz-app/static/media/quantum01.1ee256e4.jpg"
 }
